@@ -1,6 +1,6 @@
 # *Yasmine Onekeo*
 
-![photo](http://url/to/DSC099712.JPG)
+![alt text](http://url/to/DSC099712.JPG)
 
 Photo de moi, *pris en cours de photographie*
 
