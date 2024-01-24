@@ -5,11 +5,11 @@
 Photo de moi, *pris en cours de photographie*
 
 
-## ***Intérêts dans le multimedia***
+## *Intérêts dans le multimedia*
 Bien, j'aimes ça. On peut dire que c'est instinctif. J'arrives a voir la beauté au-delà de l'image et la mettre en valeur. Je vois des choses dans ma tête et grâce aux technologies j'arrives a les faire prendre vie. Je suis une artiste multidisciplinaire. Autant la photo, la vidéo, le montage et le dessin me conviennent. J'arrives à exprimer mes émotions et mes sentiments grâce à ça. Donc pour moi, c'est comme un exutoire.
 
 
-## *Ce qui me plait dans l'introduction à la muséologie en TIM**
+## *Ce qui me plait dans l'introduction à la muséologie en TIM*
 Partager avec les étudiant.e.s des expériences permettant de poser un regard large sur l'expérience vécue par les spectacteurs qui perçoivent l'oeuvre ou le dispositif dans un contexte d'exposition.  
 Apprendre à s'intéresser à toutes les composantes physiques et techniques qui interviennent dans la réception de la création.
 
