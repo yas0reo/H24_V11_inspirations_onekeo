@@ -5,7 +5,7 @@
 Photo de moi, *pris en cours de photographie*
 
 
-## *Intérêts dans le multimedia*
+## *Intérêts envers le multimedia*
 Bien, j'aimes ça. On peut dire que c'est instinctif. J'arrives a voir la beauté au-delà de l'image et la mettre en valeur. Je vois des choses dans ma tête et grâce aux technologies j'arrives a les faire prendre vie. Je suis une artiste multidisciplinaire. Autant la photo, la vidéo, le montage et le dessin me conviennent. J'arrives à exprimer mes émotions et mes sentiments grâce à ça. Donc pour moi, c'est comme un exutoire.
 
 
