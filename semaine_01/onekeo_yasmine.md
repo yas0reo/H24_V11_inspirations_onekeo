@@ -1,22 +1,12 @@
 # Yasmine Onekeo
 
-![photo](DSC099712.JPG)
+![ME](DSC099712.JPG))
 
 Photo de moi, *pris en cours de photographie*
 
 
 ## **Intérêts dans le multimedia**
-J'aime particulièrement les oeuvres d'art et j'apprécie l'art numérique qui utilise les codes ou outils technologiques pour en faire une poésie de sons et d'images.  
-J'ai un faible pour les artistes qui combinent dans leurs installations des oeuvres physiques et médiatiques pour tisser une narration, souvent à contenu social, comme *VahMiré*.
-Les médiatrices de la Fondation Phi expliquent la multiplicité de son approche dans l'expostion *Conditions d'utilisation* présentée en juin 2023.
-
-À consulter ici:
-<https://www.youtube.com/watch?v=ovc3ty_vqG0>
-
-**ou**
-en cliquant sur l'image:
-
-[![Exemple de capture d'écran](capture_SF_VahMire_defaroucher_consulte21janv2024.png)](https://www.youtube.com/watch?v=ovc3ty_vqG0)
+Bien, j'aimes ça. On peut dire que c'est instinctif. J'arrives a voir la beauté au-delà de l'image et la mettre en valeur. Je vois des choses dans ma tête et grâce aux technologies j'arrives a les faire prendre vie. Je suis une artiste multidisciplinaire. Autant la photo, la vidéo, le montage et le dessin me conviennent. J'arrives à exprimer mes émotions et mes sentiments grâce à ça. Donc pour moi, c'est comme un exutoire.
 
 
 ## Ce qui me plait dans l'introduction à la muséologie en TIM
