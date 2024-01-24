@@ -2,7 +2,7 @@
 
 ![photo](DSC099712.JPG)
 
-Photo de moi via une installation de Kosisochukwu Nnebe, *an inheritance - a threat - a haunting*, Biennale Afflux, décembre 2023
+Photo de moi, *pris en cours de photographie*
 
 
 ## **Intérêts dans le multimedia**
