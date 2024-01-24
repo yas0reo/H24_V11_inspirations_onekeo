@@ -1,6 +1,6 @@
 # *Yasmine Onekeo*
 
-![alt text](http://url/to/DSC099712.JPG)
+![DSC09971 2](https://github.com/yas0reo/H24_V11_inspirations_onekeo/assets/143228707/8a8401c2-f21f-40d9-bd10-36154b7bb138)
 
 Photo de moi, *pris en cours de photographie*
 
