@@ -1,7 +1,6 @@
 # *Yasmine Onekeo*
 
-![DSC09971 2](https://github.com/yas0reo/H24_V11_inspirations_onekeo/assets/143228707/8a8401c2-f21f-40d9-bd10-36154b7bb138)
-
+![photo-24 2](https://github.com/yas0reo/H24_V11_inspirations_onekeo/assets/143228707/fb133bbb-fac8-440a-8f66-655203d4e881)
 Photo de moi, *pris en cours de photographie*
 
 
@@ -10,10 +9,4 @@ Bien, j'aimes ça. On peut dire que c'est instinctif. J'arrives a voir la beaut�
 
 
 ## *Ce qui me plait dans l'introduction à la muséologie en TIM*
-C'est un peut bizarre, mais ce qui me plait le plus c'est le coté aestetic 
-
-Partager avec les étudiant.e.s des expériences permettant de poser un regard large sur l'expérience vécue par les spectacteurs qui perçoivent l'oeuvre ou le dispositif dans un contexte d'exposition.  
-Apprendre à s'intéresser à toutes les composantes physiques et techniques qui interviennent dans la réception de la création.
-
-
->💡 **Astuce** N'hésitez pas à vous référer aux conseils sur le codage Markdown <https://www.markdownguide.org/basic-syntax/>
+C'est un peut bizarre, mais ce qui me plait le plus c'est le coté esthétique ainci que leur coté unique que j'adore. 
