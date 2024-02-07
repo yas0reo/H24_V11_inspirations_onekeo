@@ -1,3 +1,5 @@
+
+![Phase Shifting Index](https://github.com/yas0reo/H24_V11_inspirations_onekeo/assets/143228707/39d2b357-dd19-401c-b5a2-64da1d6422e8)
 ***Fiche d'Oeuvre : Jeremy Shaw: Phase Shifting Index***
 
 **Introduction**
@@ -22,7 +24,10 @@ Jeremy Shaw, artiste multidisciplinaire, explore les frontières entre science, 
 
 **Appuis Visuels**
 
-[photographies a mettre]
+![HipHop_Ballet](https://github.com/yas0reo/H24_V11_inspirations_onekeo/assets/143228707/bfc98b39-a1cb-423c-b4db-324b71468516)
+![avec Dominic Vasille](https://github.com/yas0reo/H24_V11_inspirations_onekeo/assets/143228707/f08ff04a-81b4-44f5-9ffc-38f1c49db0a5)
+![disturbing](https://github.com/yas0reo/H24_V11_inspirations_onekeo/assets/143228707/cb9acdb6-2cf0-440c-8b41-e2f974d704fa)
+
 
 
 **Conclusion**
