@@ -1,6 +1,6 @@
 ![Phase Shifting Index](https://github.com/yas0reo/H24_V11_inspirations_onekeo/assets/143228707/39d2b357-dd19-401c-b5a2-64da1d6422e8)
 
-/###***Fiche d'Oeuvre : Jeremy Shaw: Phase Shifting Index***
+/##Fiche d'Oeuvre : Jeremy Shaw: Phase Shifting Index
 
 **Introduction**
 
