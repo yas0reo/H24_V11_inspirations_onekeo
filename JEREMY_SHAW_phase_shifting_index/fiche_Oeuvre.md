@@ -1,5 +1,6 @@
 # Fiche d'Oeuvre : Jeremy Shaw: Phase Shifting Index
-
+📍Fonderie Darling, Montréal
+(745 Rue Ottawa, Montréal, QC H3C 1R8)
 ![Phase Shifting Index](https://github.com/yas0reo/H24_V11_inspirations_onekeo/assets/143228707/39d2b357-dd19-401c-b5a2-64da1d6422e8)
 
 ## Introduction
