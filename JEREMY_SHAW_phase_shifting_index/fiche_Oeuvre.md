@@ -8,7 +8,7 @@
 
 ## Introduction
 
-"Phase Shifting Index" représente *une installation artistique immersive* conçue par l'artiste contemporain *Jeremy Shaw*. Présentée au sein d'une exposition, cette création, *visité le 13 janvier 2024*, enexplore les concepts de perception, de réalité altérée et de transformation de la conscience à travers une expérience sensorielle singulière.
+"Phase Shifting Index" représente *une installation artistique immersive* conçue par l'artiste contemporain *Jeremy Shaw*. Présentée au sein d'une exposition, cette création, *visité le 13 janvier 2024*, explore les concepts de perception, de réalité altérée et de transformation de la conscience à travers une expérience sensorielle singulière.
 
 
 ## Description
