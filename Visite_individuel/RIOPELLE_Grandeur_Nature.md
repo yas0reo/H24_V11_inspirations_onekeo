@@ -9,5 +9,4 @@ Le fichier [Fiche de présentation de l'oeuvre ou du dispositif retenu].md conti
 ### Médias Pertinents
 Les médias pertinents de l'oeuvre ou du dispositif sont inclus dans ce dossier. Ils comprennent des photographies, des vidéos ou d'autres supports visuels qui enrichissent la présentation et aident à comprendre l'oeuvre dans son contexte.
 
-### Plan de Communication Orale
-Le plan de la communication orale détaille la structure et le contenu de ma présentation verbale sur l'oeuvre ou le dispositif retenu. Il inclut une introduction, une description, une analyse et des conclusions, ainsi que des éléments visuels pour appuyer mes propos.
+
