@@ -43,7 +43,7 @@ Jeremy Shaw, artiste multidisciplinaire, explore les frontières entre science, 
 
 L'installation "Phase Shifting Index" offre une expérience immersive captivante. Les images en mouvement, les motifs récurrents et les effets sonores enveloppants créent une atmosphère hypnotique qui invite à une profonde introspection sur la nature changeante de la réalité et de la perception.
 
-## Ce qui ma plu
+## Ce qui ma plus
 
 L'atmosphère immersive et la façon dont l'œuvre remet en question les notions conventionnelles de réalité et de conscience ont particulièrement captivé mon attention.
 
@@ -52,7 +52,7 @@ L'atmosphère immersive et la façon dont l'œuvre remet en question les notions
 L'installation "Phase Shifting Index" de Jeremy Shaw offre une expérience immersive captivante, invitant les spectateurs à méditer sur la nature changeante de la réalité et de la perception. En combinant des éléments visuels et sonores, Shaw crée un univers sensoriel propice à une introspection profonde.
 
 
-## Référenes
+## Références
 📄 La description est INSPIRÉ de la description de Fonderie Darling. Je n'ai pas pris les même mots ni phrases.
 https://fonderiedarling.org/Phase-Shifting-Index
 📸 Toutes photos inclus on été prises par Yasmine Onekeo avec un iphone 14 pro.
