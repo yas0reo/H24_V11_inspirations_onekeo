@@ -1,4 +1,4 @@
-**Conférence de Jade Séguela sur la gestion de collection et l'exposition de l'art numérique de Rafael Lozano-Hemmer**
+# Conférence de Jade Séguela sur la gestion de collection et l'exposition de l'art numérique de Rafael Lozano-Hemmer
 
 *Introduction*
 
