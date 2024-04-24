@@ -15,7 +15,7 @@ __________
 
 ### 2. Effet Papillon
 [https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html]
-   - Créateurs : [Nom des étudiant.e.s]
+   - Créateurs : Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravley et Jasmine lapierre
    - Description : L'installation immersive présente le cycle de vie d'un pommier et explore l'effet papillon avec des éléments électroniques. Les visiteurs vivent une expérience sensorielle et éducative de la graine à la pomme, illustrant ainsi l'effet papillon. La maturité du fruit révèle les conséquences des actions des visiteurs, soulignant l'impact des petits choix sur un système complexe.
    - Lien avec Crescentia : Effet Papillon et Crescentia explorent tous deux la croissance et l'évolution. Le premier se concentre sur le cycle de vie d'un pommier et comment de petits choix affectent un système complexe. Le second explore l'évolution sous différentes formes. Dans les deux cas, les visiteurs peuvent interagir avec les installations, qui changent en fonction de leurs actions, montrant ainsi l'impact de nos choix sur le monde qui nous entoure.
    - Installation en cours :![main_avant_effet_papillon](https://github.com/yas0reo/H24_V11_inspirations_onekeo/assets/143228707/b77ce8c3-1512-4814-9920-947500b2a9a3)![main_apres_effet_papillon](https://github.com/yas0reo/H24_V11_inspirations_onekeo/assets/143228707/270ce288-98d5-4c78-a4df-d42737cdc20f)
@@ -26,7 +26,7 @@ __________
 
 ### 3. KIGO
 [https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html]
-   - Créateurs : [Nom des étudiant.e.s]
+   - Créateurs : Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion
    - Description : Dans ce jeu interactif, les joueurs doivent esquiver des obstacles dans un monde au style visuel néon rétro. L'esthétique du jeu évolue pour refléter les quatre saisons, offrant ainsi une expérience visuelle variée et immersive tout en défiant les compétences des joueurs à travers différents environnements.
    - Lien avec Crescentia : Le lien entre KIGO et Crescentia réside dans leur exploration de la croissance et de l'évolution. Alors que "KIGO" est un jeu interactif où les joueurs naviguent à travers des obstacles dans un monde néon rétro changeant selon les saisons, "Crescentia" est une exposition d'œuvres multimédias qui explorent le concept d'évolution de différentes manières. Malgré leurs différences, les deux offrent une réflexion sur la croissance et le changement à travers l'interaction avec l'art.
    - Installation en cours : ![instalation_kigo](https://github.com/yas0reo/H24_V11_inspirations_onekeo/assets/143228707/6f70c21b-b81e-4331-971d-7ffacde0a0b7) ![instalation_finale_kigo](https://github.com/yas0reo/H24_V11_inspirations_onekeo/assets/143228707/50697580-2f74-4b02-adda-8030c6bac86b)
@@ -37,7 +37,7 @@ __________
 
 ### 4. Sonalux
 [https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html]
-   - Créateurs : [Nom des étudiant.e.s]
+   - Créateurs : Vincent Desjardins, Camélie Laprise, Ghita Alaoui et Antoine Haddad
    - Description : Sonalux est une installation d'art génératif qui offre un monde où le temps est redéfini, invitant à un voyage astral collectif. Les participants sont immergés dans un espace sans limites où ils deviennent les maîtres en manipulant des instruments sur un podium.
    - Lien avec Crescentia : Ils explorent tous deux la croissance et l'évolution, mais de manière différente. Sonalux propose une expérience immersive d'art génératif qui invite à un voyage astral collectif, Crescentia présente des œuvres multimédias explorant divers aspects de l'évolution. Malgré leurs différences, les deux offrent une réflexion sur la croissance et le changement à travers l'art interactif.
    - Installation en cours : ![instalaation_sonalux](https://github.com/yas0reo/H24_V11_inspirations_onekeo/assets/143228707/458279fc-862e-454e-ac0d-0d41112fe70b) ![instalaation_finale_sonalux](https://github.com/yas0reo/H24_V11_inspirations_onekeo/assets/143228707/9ab3a68b-fc07-4c23-b089-b86812abeee5)
@@ -47,7 +47,7 @@ __________
 
 ### 5. Canevas Cosmique
 [https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html]
-   - Créateurs : [Nom des étudiant.e.s]
+   - Créateurs : Jacob Alarie Brousseau, Etienne Charron, Jérémy Cholette, Quoc Huy Do et Mikael lourangeau
    - Description : Vous êtes dans un laboratoire avec une table et un écran montrant le système solaire. Vous pouvez manipuler des statues sur la table pour déclencher des événements dans la simulation. Amusez-vous à expérimenter jusqu'au retour des scientifiques.
    - Lien avec Crescentia : L'exploration respective de la croissance et de l'évolution est le lien qui les relis. Alors que "Canevas Cosmique" offre une expérience interactive où les participants manipulent une simulation du système solaire, "Crescentia" présente des œuvres multimédias explorant différentes formes d'évolution. Malgré leurs différences, les deux offrent une réflexion sur la croissance et le changement à travers l'art interactif.
    - Installation en cours : ![instalation_canevas_cosmique](https://github.com/yas0reo/H24_V11_inspirations_onekeo/assets/143228707/66417369-e9d3-4652-b379-5069e7b121de) ![instalation_finale_canevas_cosmique](https://github.com/yas0reo/H24_V11_inspirations_onekeo/assets/143228707/3a74aa50-cb1f-413b-9dc5-2ac395709f3d)
