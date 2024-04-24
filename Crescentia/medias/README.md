@@ -1,1 +1,1 @@
-Tout les photos et vidéos prises
+Tout les photos prises
