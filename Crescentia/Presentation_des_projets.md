@@ -45,7 +45,7 @@ __________
    - Ressenti attendu en expérimentant : Les participants peuvent s'attendre à ressentir une immersion totale dans un monde d'art interactif. Ils auront l'occasion de découvrir un espace sans limites et de manipuler des instruments pour créer leur propre expérience. Ce pourrait être à la fois amusant, inspirant et stimulant.
 __________
 
-### 5. Canevas Cosmique
+### 5. Canevas Cosmique (projet préféré)
 [https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html]
    - Créateurs : Jacob Alarie Brousseau, Etienne Charron, Jérémy Cholette, Quoc Huy Do et Mikael lourangeau
    - Description : Vous êtes dans un laboratoire avec une table et un écran montrant le système solaire. Vous pouvez manipuler des statues sur la table pour déclencher des événements dans la simulation. Amusez-vous à expérimenter jusqu'au retour des scientifiques.
@@ -53,6 +53,15 @@ __________
    - Installation en cours : ![instalation_canevas_cosmique](https://github.com/yas0reo/H24_V11_inspirations_onekeo/assets/143228707/66417369-e9d3-4652-b379-5069e7b121de) ![instalation_finale_canevas_cosmique](https://github.com/yas0reo/H24_V11_inspirations_onekeo/assets/143228707/3a74aa50-cb1f-413b-9dc5-2ac395709f3d)
    - Schéma de l'installation prévue : ![plantation_canevas_cosmique](https://github.com/yas0reo/H24_V11_inspirations_onekeo/assets/143228707/372c1c34-633f-4d85-a969-4514ccb95a75)
    - Ressenti attendu en expérimentant : Les participants pourraient se sentir curieux et excités en interagissant avec la simulation du système solaire. Ils pourraient ressentir du plaisir et de l'étonnement en manipulant les éléments sur la table. En résumé, l'expérience pourrait être amusante et captivante.
+
+
+**pourquoi Canevas Cosmique c'est mon projet préféré :**
+
+1. Fun et immersif : Pouvoir jouer avec un système solaire comme si c'était un jeu ! C'est interactif et ça te laisse explorer et tester plein de trucs.
+2. Créativité à fond : Avec les petites statues tu peux imaginer un terrain de jeu où tu peux créer tout ce que tu veux dans l'espace.
+3. Superbe à regarder : Les graphismes sont très bien! Ça te plonge dans une ambiance relaxante et ça donne envie d'explorer encore plus.
+4. Au cœur de l'action : Imaginer pouvoir bouger des trucs dans l'espace et voir ce qui se passe ? C'est vraiment captivant et ça donne envie d'en savoir plus sur comment ça marche.
+5. Pas de stress, que du plaisir : Les mouvements sont pas trop rapides, pas trop lents. Ça laisse le temps de tout essayer sans te stresser.
 
 ## Ordre de Préférence des Projets
 
