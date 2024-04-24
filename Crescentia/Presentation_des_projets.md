@@ -21,8 +21,8 @@
    - Créateurs : Jolyanne Desjardins, Maïka Désy, Laurie Houde et Felix Testa Radovanovic
    - Description : Rhizomatique est une œuvre interactive qui explore comment nous percevons le temps. Elle invite les participants à interagir avec une toile pour découvrir des souvenirs, qui sont ensuite projetés sur les murs. En interagissant davantage, les souvenirs deviennent plus clairs. L'objectif est de faire réfléchir sur notre relation au temps et de nous immerger dans les expériences passées des autres. L'œuvre est divisée en deux parties : la toile et les projections, qui représentent le cerveau et les souvenirs.
    - Lien avec Crescentia : Rhizomatique et Crescentia explorent tous deux la relation entre l'homme et son environnement. Cela penche sur notre rapport au temps à travers le souvenir et le concept d'évolution. Les visiteurs peuvent interagir avec les œuvres pour observer des transformations et des changements.
-   - Installation en cours : ![Photos](lien_vers_vos_photos)
-   - Schéma de l'installation prévue : ![Schéma](lien_vers_votre_schéma)
+   - Installation en cours : ![instalation_rhizomatique](https://github.com/yas0reo/H24_V11_inspirations_onekeo/assets/143228707/b729822a-6f62-4648-b838-07ea61492102)![instalation_finale_rhizomatique](https://github.com/yas0reo/H24_V11_inspirations_onekeo/assets/143228707/c3bd7bca-f83e-41a4-a351-4b3330510851)
+
    - Ressenti attendu en expérimentant : Rhizomatique vous invite à réfléchir sur le temps en explorant des souvenirs. Vous ressentirez comment le temps affecte nos vies et nos pensées. En interagissant avec les souvenirs, vous pourriez ressentir de la nostalgie, de la réflexion, voire avoir des prises de conscience personnelles.
 
 __________
@@ -32,8 +32,9 @@ __________
    - Créateurs : [Nom des étudiant.e.s]
    - Description : L'installation immersive présente le cycle de vie d'un pommier et explore l'effet papillon avec des éléments électroniques. Les visiteurs vivent une expérience sensorielle et éducative de la graine à la pomme, illustrant ainsi l'effet papillon. La maturité du fruit révèle les conséquences des actions des visiteurs, soulignant l'impact des petits choix sur un système complexe.
    - Lien avec Crescentia : Effet Papillon et Crescentia explorent tous deux la croissance et l'évolution. Le premier se concentre sur le cycle de vie d'un pommier et comment de petits choix affectent un système complexe. Le second explore l'évolution sous différentes formes. Dans les deux cas, les visiteurs peuvent interagir avec les installations, qui changent en fonction de leurs actions, montrant ainsi l'impact de nos choix sur le monde qui nous entoure.
-   - Installation en cours : ![Photos](lien_vers_vos_photos)
-   - Schéma de l'installation prévue : ![Schéma](lien_vers_votre_schéma)
+   - Installation en cours :
+
+   - 
    - Ressenti attendu en expérimentant : En expérimentant Effet Papillon, les visiteurs ressentiront une immersion sensorielle et émotionnelle. Ils pourront éprouver de la curiosité en explorant les différentes étapes du cycle de vie d'un pommier. En prenant part à cette expérience interactive, ils réfléchiront à l'impact de leurs choix sur un système plus vaste, découvrant ainsi l'importance des petites actions sur l'environnement.
 
 __________
