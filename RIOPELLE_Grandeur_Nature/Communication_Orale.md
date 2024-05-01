@@ -1,69 +1,35 @@
-# Plan de Présentation Orale - Exposition "RIOPELLE Grandeur Nature"
+### Plan de la Présentation Orale
 
-## Introduction
-- **Objectif de la communication :** Présenter l'exposition "RIOPELLE Grandeur Nature" et partager l'expérience vécue lors de la visite individuelle.
-- **Aspects à aborder :** 
-  - Contexte de l'exposition et du lieu d'exposition.
-  - Présentation détaillée de l'œuvre ou du dispositif multimédia.
-  - Expérience personnelle de l'œuvre ou du dispositif.
-  - Appréciation critique et justifications.
-  - Liens avec d'autres œuvres, dispositifs et expériences multimédias découverts lors de la session.
+#### Introduction :
 
-## Développement
-1. **Informations sur l'œuvre ou le dispositif multimédia et le lieu d'exposition :**
-   - Titre, artiste, type d'œuvre, date de création, nom de l'exposition, type d'exposition, lieu et date de visite.
+- Objectif : Exposition "RIOPELLE Grandeur Nature" et expérience personnelle.
+- Aspects : Œuvre, expérience vécue, critique, liens avec d'autres œuvres.
 
-2. **Présentation détaillée de l'œuvre ou du dispositif multimédia :**
-   - Description de l'œuvre et de son concept.
-   - Techniques utilisées (projections vidéo, son spatialisé, interaction utilisateur, éclairage).
-   - Thèmes abordés (nature, expression gestuelle, dualité artistique).
+#### Développement :
 
-3. **Expérience vécue :**
-   - Description de l'expérience personnelle de l'œuvre ou du dispositif.
-   - Interactivité, contemplation, immersion, gestes à poser, etc.
+- Informations :
+  - Titre : RIOPELLE Grandeur Nature
+  - Artiste : Jean-Paul Riopelle
+  - Type : Installation multimédia
+  - Date : Février 2024
+  - Lieu : Les 7 doigt de la main
+  - Visite : 28 Février 
 
-4. **Appréciation critique et justifications :**
-   - Points forts de l'œuvre ou du dispositif.
-   - Idées inspirantes pour ses propres créations.
-   - Aspects à améliorer ou à éviter.
+- Présentation :
+  - Description : plonger dans l'univers artistique de Jean-Paul Riopelle.
+  - Techniques : Projections haute définition, son spatialisé, interaction grace a des capteurs de mouvement, l'éclairage pour créer des atmosphères évocatrices.
+  - Thèmes : Nature et ses éléments, expression gestuelle, dualité entre contrôle et liberté artistique.
 
-5. **Liens avec d'autres œuvres, dispositifs et expériences multimédias :**
-   - Connexions et comparaisons avec d'autres éléments découverts pendant la session.
+- Expérience :
+  - Immersion : Plongée dans l'œuvre à travers les différents médias.
+  - Interaction : Engagement avec l'installation via les capteurs de mouvement.
+  - Réactions : Captivation par l'esthétique, émotions suscitées par l'expérience.
 
-## Conclusion
-- **Rappel des aspects présentés.**
-- **Élément inspirant retenu parmi toutes les œuvres, dispositifs et expériences de la session.**
+- Critique :
+  - Points positifs : Innovation dans l'utilisation des médias numériques, capacité à captiver le public.
+  - Améliorations : Choses à améliorer que j'ai vue lors de la visite.
 
---------------------
+#### Conclusion :
 
-### Introduction:
-
-Bienvenue à tous à cette présentation captivante de l'exposition "RIOPELLE Grandeur Nature". Aujourd'hui, nous plongerons dans l'univers fascinant de l'artiste québécois légendaire Jean-Paul Riopelle et de son œuvre emblématique. Mais avant de nous aventurer dans les détails de cette exposition, permettez-moi de vous immerger dans l'essence même de l'artiste et de son travail.
-
-Jean-Paul Riopelle, une figure emblématique de l'art québécois et international, a marqué l'histoire de l'art du 20e siècle avec son style unique et audacieux. Sa carrière artistique est jalonnée de moments marquants et d'œuvres emblématiques qui ont façonné le paysage artistique contemporain.
-
-Dans cette présentation, nous explorerons non seulement l'œuvre de Riopelle, mais également les profondeurs de son esprit créatif et les influences qui ont façonné son travail. Préparez-vous à être transportés dans un monde où les couleurs, les formes et les textures s'entremêlent pour créer une expérience visuelle et émotionnelle incomparable.
-
-### Description:
-
-Maintenant que nous avons éveillé votre curiosité, plongeons dans la présentation détaillée de l'œuvre ou du dispositif sélectionné pour cette exposition. Que vous soyez un amateur d'art chevronné ou simplement curieux, vous trouverez dans cette exploration une richesse d'éléments à découvrir.
-
-À travers des descriptions claires et accessibles, nous décortiquerons les éléments visuels de l'œuvre, en utilisant des exemples concrets et des métaphores pour évoquer les sensations qu'elle suscite. Vous serez transportés dans un voyage sensoriel où chaque coup de pinceau, chaque trait, raconte une histoire et évoque des émotions profondes.
-
-### Analyse:
-
-Mais notre exploration ne s'arrête pas là. Nous plongerons ensuite dans une analyse approfondie de l'œuvre, en examinant son contexte historique, sa signification symbolique et les techniques artistiques utilisées par Riopelle. À travers cette analyse, nous chercherons à comprendre les multiples facettes de son œuvre et les messages qu'elle transmet.
-
-J'encourage également chacun d'entre vous à participer activement à cette analyse en posant des questions et en partageant vos propres réflexions. Après tout, l'art est une expérience subjective qui peut être interprétée de différentes manières, et vos perspectives enrichiront notre compréhension collective.
-
-### Conclusions:
-
-En conclusion, permettez-moi de récapituler les points clés que nous avons abordés au cours de cette présentation enrichissante. Nous avons exploré l'univers de Jean-Paul Riopelle, plongé dans la profondeur de son œuvre et partagé des réflexions sur son impact et sa signification.
-
-Mais notre voyage ne s'arrête pas ici. Je vous invite maintenant à partager vos propres impressions et interprétations de l'œuvre ou du dispositif. Ensemble, continuons à explorer les mystères de l'art et à enrichir notre expérience grâce à la diversité de nos perspectives.
-
-### Éléments Visuels:
-
-Tout au long de cette présentation, nous avons été accompagnés par des éléments visuels soigneusement sélectionnés pour illustrer nos propos. J'espère que ces images et vidéos ont enrichi votre expérience et renforcé votre compréhension de l'œuvre de Riopelle.
-
-Je vous remercie de votre attention et je vous invite maintenant à participer à la discussion et à partager vos réflexions. Laissons-nous emporter par la magie de l'art et continuons à explorer ensemble les merveilles de la créativité humaine.
+- Récapitulation : Points principaux abordés lors de la présentation.
+- Ouverture : Inspiration tirée de l'exposition pour la créativité future.
