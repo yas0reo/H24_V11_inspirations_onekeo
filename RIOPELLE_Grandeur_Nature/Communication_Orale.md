@@ -1,3 +1,41 @@
+# Plan de Présentation Orale - Exposition "RIOPELLE Grandeur Nature"
+
+## Introduction
+- **Objectif de la communication :** Présenter l'exposition "RIOPELLE Grandeur Nature" et partager l'expérience vécue lors de la visite individuelle.
+- **Aspects à aborder :** 
+  - Contexte de l'exposition et du lieu d'exposition.
+  - Présentation détaillée de l'œuvre ou du dispositif multimédia.
+  - Expérience personnelle de l'œuvre ou du dispositif.
+  - Appréciation critique et justifications.
+  - Liens avec d'autres œuvres, dispositifs et expériences multimédias découverts lors de la session.
+
+## Développement
+1. **Informations sur l'œuvre ou le dispositif multimédia et le lieu d'exposition :**
+   - Titre, artiste, type d'œuvre, date de création, nom de l'exposition, type d'exposition, lieu et date de visite.
+
+2. **Présentation détaillée de l'œuvre ou du dispositif multimédia :**
+   - Description de l'œuvre et de son concept.
+   - Techniques utilisées (projections vidéo, son spatialisé, interaction utilisateur, éclairage).
+   - Thèmes abordés (nature, expression gestuelle, dualité artistique).
+
+3. **Expérience vécue :**
+   - Description de l'expérience personnelle de l'œuvre ou du dispositif.
+   - Interactivité, contemplation, immersion, gestes à poser, etc.
+
+4. **Appréciation critique et justifications :**
+   - Points forts de l'œuvre ou du dispositif.
+   - Idées inspirantes pour ses propres créations.
+   - Aspects à améliorer ou à éviter.
+
+5. **Liens avec d'autres œuvres, dispositifs et expériences multimédias :**
+   - Connexions et comparaisons avec d'autres éléments découverts pendant la session.
+
+## Conclusion
+- **Rappel des aspects présentés.**
+- **Élément inspirant retenu parmi toutes les œuvres, dispositifs et expériences de la session.**
+
+--------------------
+
 ### Introduction:
 
 Bienvenue à tous à cette présentation captivante de l'exposition "RIOPELLE Grandeur Nature". Aujourd'hui, nous plongerons dans l'univers fascinant de l'artiste québécois légendaire Jean-Paul Riopelle et de son œuvre emblématique. Mais avant de nous aventurer dans les détails de cette exposition, permettez-moi de vous immerger dans l'essence même de l'artiste et de son travail.
