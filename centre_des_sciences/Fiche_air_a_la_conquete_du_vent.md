@@ -62,6 +62,7 @@ On met en œuvre des mesures de sécurité rigoureuses afin d'assurer le bien-ê
 
 **Conclusion:**
 L'expérience AIR : À LA CONQUÊTE DU VENT propose une expérience immersive et éducative qui encourage les visiteurs à découvrir les mystères de l'air et à saisir son rôle essentiel dans notre environnement. En alliant divertissement et enseignement, cette exposition captivante offre une expérience mémorable à tous ceux qui souhaitent découvrir les mystères de l'ambiance.
+
 -
 [📸 Toutes les photos ont été prises par Yasmine avec un iPhone 14 Pro]
 
